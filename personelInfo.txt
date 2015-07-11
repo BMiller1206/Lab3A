@@ -1,0 +1,3 @@
+James Wilson 34567 Developer1 700000.75
+Lucy Johnson 98756 Receptionist 35000.00
+Fred Jones 67534 Developer2 105000.00
